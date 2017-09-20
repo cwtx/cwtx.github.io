@@ -3,7 +3,7 @@ layout: post
 title: Warrant Buffet's letter 2014
 ---
 
-#2014年巴菲特致股东的信摘录
+# 2014年巴菲特致股东的信摘录
 
 翻译 by 刺猬偷腥
 
