@@ -17,8 +17,8 @@ permalink: /about/
 
 ### 文章的仓库
 
-[雪球网个人主页](https://xueqiu.com/cwtx)
-[刺猬投资专栏](https://xueqiu.com/8223138566/column)
-[摩尔金融专栏](https://www.moer.cn/authorHome.htm?theId=100001649)
-[新浪博客](http://blog.sina.com.cn/u/3263957117)
-[东方财富网博客](http://blog.eastmoney.com/cwtx)
+[雪球网个人主页](https://xueqiu.com/cwtx)  <br/>
+[刺猬投资专栏](https://xueqiu.com/8223138566/column)  <br/>
+[摩尔金融专栏](https://www.moer.cn/authorHome.htm?theId=100001649)  <br/>
+[新浪博客](http://blog.sina.com.cn/u/3263957117)  <br/>
+[东方财富网博客](http://blog.eastmoney.com/cwtx)  <br/>
